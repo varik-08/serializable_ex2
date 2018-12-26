@@ -1,0 +1,11 @@
+C:\Users\Ярослав\source\repos\Serializable\Serializable\bin\Debug\netcoreapp2.1\Serializable.deps.json
+C:\Users\Ярослав\source\repos\Serializable\Serializable\bin\Debug\netcoreapp2.1\Serializable.runtimeconfig.json
+C:\Users\Ярослав\source\repos\Serializable\Serializable\bin\Debug\netcoreapp2.1\Serializable.runtimeconfig.dev.json
+C:\Users\Ярослав\source\repos\Serializable\Serializable\bin\Debug\netcoreapp2.1\Serializable.dll
+C:\Users\Ярослав\source\repos\Serializable\Serializable\bin\Debug\netcoreapp2.1\Serializable.pdb
+C:\Users\Ярослав\source\repos\Serializable\Serializable\obj\Debug\netcoreapp2.1\Serializable.csprojAssemblyReference.cache
+C:\Users\Ярослав\source\repos\Serializable\Serializable\obj\Debug\netcoreapp2.1\Serializable.csproj.CoreCompileInputs.cache
+C:\Users\Ярослав\source\repos\Serializable\Serializable\obj\Debug\netcoreapp2.1\Serializable.AssemblyInfoInputs.cache
+C:\Users\Ярослав\source\repos\Serializable\Serializable\obj\Debug\netcoreapp2.1\Serializable.AssemblyInfo.cs
+C:\Users\Ярослав\source\repos\Serializable\Serializable\obj\Debug\netcoreapp2.1\Serializable.dll
+C:\Users\Ярослав\source\repos\Serializable\Serializable\obj\Debug\netcoreapp2.1\Serializable.pdb

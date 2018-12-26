@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="LazyData.Yaml" Version="1.1.7" />
+    <PackageReference Include="MessagePack" Version="1.7.3.4" />
+    <PackageReference Include="protobuf-net" Version="2.4.0" />
+    <PackageReference Include="SharpYaml.NetStandard" Version="1.5.4" />
+    <PackageReference Include="YamlDotNet" Version="5.2.1" />
+    <PackageReference Include="YamlSerializer" Version="1.0.0" />
+  </ItemGroup>
+
+</Project>
